@@ -1,4 +1,4 @@
-# HTMLr e CSS3
+# HTML5 e CSS3
 Aprendizado de HTML5, CSS3 e SEO de forma prática e objetiva desenvolvendo passo a passo do início até a hospedagem um site moderno e responsivo.
 ## Links indicados
 ### Planejamento
