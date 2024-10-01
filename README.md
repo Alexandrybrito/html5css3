@@ -8,7 +8,7 @@ Aprendizado de HTML5, CSS3 e SEO de forma prática e objetiva desenvolvendo pass
 
 [![HTML5 e CSS3 - One Page Site](https://img.youtube.com.vibs720dGvAn8/0.jpg)](https://youtube.com/vi/bs720dGvAn8 "Apresentação do projeto")
 ## Playlist
-[HTML5 e CSS3 - One page site](https://www.youtube.com/playlist?list=PLbEOwbQR9lqySIlPJ-Qwo4f4HSuXVeWK)
+![HTML5 e CSS3 - One page site](https://www.youtube.com/playlist?list=PLbEOwbQR9lqySIlPJ-Qwo4f4HSuXVeWK)
 ## Links indicados
 ### Planejamento
 [cetic](https://www.cetic.br/)
