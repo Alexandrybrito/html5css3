@@ -7,3 +7,18 @@ https://imagecompressor.com/pt/
 
 Cetic
 https://cetic.br/media/analises/tic_domicilios_2023_coletiva_imprensa.pdf
+
+Validações W3C
+
+html - https://validator.w3.org/nu/#file
+css - https://jigsaw.w3.org/css-validator/validator
+
+<!-- TAGs Semânticas -->
+<header> Cabeçalho </header>
+<nav> Menu </nav>
+<main> Conteúdo principal </main>
+<section> Agrupamento de conteúdos relacionados </section>
+<article> Artigos, Comentários, Widget </article>
+<aside> Side bar </aside>
+<footer> Rodapé</footer>
+
