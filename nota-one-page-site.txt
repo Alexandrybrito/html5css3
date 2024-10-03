@@ -8,10 +8,13 @@ https://imagecompressor.com/pt/
 Cetic
 https://cetic.br/media/analises/tic_domicilios_2023_coletiva_imprensa.pdf
 
+
 Validações W3C
 
 html - https://validator.w3.org/nu/#file
 css - https://jigsaw.w3.org/css-validator/validator
+
+https://www.alura.com.br/artigos/construa-css-magico-variaveis-nativas
 
 <!-- TAGs Semânticas -->
 <header> Cabeçalho </header>
@@ -22,3 +25,10 @@ css - https://jigsaw.w3.org/css-validator/validator
 <aside> Side bar </aside>
 <footer> Rodapé</footer>
 
+<!-- Heading TAGs -->
+<h1> Subtítulo </h1>
+<h2> Subtítulo nível 2 </h2>
+<h3> Subtítulo nível 3 </h3>
+<h4> Subtítulo nível 4 </h4>
+<h5> Subtítulo nível 5 </h5>
+<h6> Subtítulo nível 6 </h6>
