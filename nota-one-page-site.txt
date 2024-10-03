@@ -32,3 +32,6 @@ https://www.alura.com.br/artigos/construa-css-magico-variaveis-nativas
 <h4> Subtítulo nível 4 </h4>
 <h5> Subtítulo nível 5 </h5>
 <h6> Subtítulo nível 6 </h6>
+
+Caracteres especiais
+https://www.unicode.org/charts
