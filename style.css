@@ -30,7 +30,6 @@ body {
 }
 
 /* Botão */
-/*
 .Botao {
     text-decoration: none;
     color: #fff;
@@ -40,7 +39,7 @@ body {
     padding: 10px 40px;
     border: 2px solid #fff;
     border-radius: 50px;
-}*/
+}
 
 /* Topo do site */
 #topo {
@@ -49,9 +48,7 @@ body {
     bottom: 10px;
 }
 
-
 /* Smartphone Portrait >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>*/
-
 /* Cabeçalho */
 header {
     height: 60px;
@@ -97,7 +94,6 @@ nav ul li a {
 }
 
 /* Destaque */
-/*
 main {
     height: 75vh;
     background: url(img/banner.jpg);
@@ -116,7 +112,7 @@ main h1 {
 main h2 {
     font-size: 1em;
     margin: 20px 0px 50px 0px;
-}*/
+}
 
 /* Smartphone Landscape >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>*/
 @media (min-width: 576px) {
@@ -127,10 +123,9 @@ main h2 {
     }
 
     /* Destaque */
-    /*
     main h1, main h2 {
-        text-shadow: #000 0.05em 0.05em 0.05em;
-    }*/
+        text-shadow: #000 0.1em 0.1em 0.1em;
+    }
 }
 
 /* Tablet Portrait >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>*/
@@ -142,7 +137,6 @@ main h2 {
     }
 
     /* Destaque */
-    /*
     main {
         height: 45vh;
     }
@@ -153,7 +147,7 @@ main h2 {
 
     main h2 {
         font-size: 2em;
-    }*/
+    }
 }
 
 /* Tablet Landscape >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>*/
@@ -165,10 +159,9 @@ main h2 {
     }
 
     /* destaque */
-    /*
     main {
         height: 70vh;
-    }*/
+    }
 }
 
 /* PC >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>*/
@@ -216,9 +209,8 @@ main h2 {
         color: #c00000;
     }
 
-     /* destaque */
-     /*
-     main {
-        height: 60vh;
-    }*/
+    /* destaque */
+    main {
+        height: 70vh;
+    }
 }
