@@ -35,3 +35,8 @@ https://www.alura.com.br/artigos/construa-css-magico-variaveis-nativas
 
 Caracteres especiais
 https://www.unicode.org/charts
+
+
+para github
+
+cabeçalho/links internos/css-flexbox/
