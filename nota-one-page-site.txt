@@ -12,7 +12,7 @@ https://cetic.br/media/analises/tic_domicilios_2023_coletiva_imprensa.pdf
 Validações W3C
 
 html - https://validator.w3.org/nu/#file
-css - https://jigsaw.w3.org/css-validator/validator
+css - https://jigsaw.w3.org/css-validator/
 
 https://www.alura.com.br/artigos/construa-css-magico-variaveis-nativas
 
@@ -37,6 +37,6 @@ Caracteres especiais
 https://www.unicode.org/charts
 
 
-para github
+🔗 Aspect Ratio Calculator (para calcular dimensões de video para smartphones)
+https://www.digitalrebellion.com/weba...
 
-cabeçalho/links internos/css-flexbox/

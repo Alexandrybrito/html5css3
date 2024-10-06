@@ -34,6 +34,11 @@ body {
     align-items: center;
 }
 
+.Flex3 {
+    display: flex;
+    flex-direction: column;
+}
+
 /* Botão */
 .Botao {
     text-decoration: none;
@@ -152,6 +157,25 @@ main h2 {
     margin-right: 20px;
 }
 
+/* One page */
+#onepage {
+    padding: 50px 10px;
+}
+
+#onepage {
+    margin-bottom: 10px;
+}
+
+#onepage {
+    margin-bottom: 25px;
+}
+
+#video iframe {
+    width: 340px;
+    height: 191px;
+    border: 0;
+}
+
 /* Smartphone Landscape >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>*/
 @media (min-width: 576px) {
    
@@ -163,6 +187,12 @@ main h2 {
     /* Destaque */
     main h1, main h2 {
         text-shadow: #000 0.1em 0.1em 0.1em;
+    }
+
+    /* One page */
+    #video iframe {
+        width: 560px;
+        height: 315px;
     }
 }
 
@@ -186,6 +216,12 @@ main h2 {
     main h2 {
         font-size: 2em;
     }
+
+    /* One page */
+    #video iframe {
+        width: 560px;
+        height: 315px;
+    }
 }
 
 /* Tablet Landscape >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>*/
@@ -199,6 +235,12 @@ main h2 {
     /* destaque */
     main {
         height: 70vh;
+    }
+
+    /* One page */
+    #video iframe {
+        width: 560px;
+        height: 315px;
     }
 }
 
@@ -265,4 +307,17 @@ main h2 {
         border-radius: 50%;
         margin-right: 50px;
     }
+
+    /* One page */
+    #video iframe {
+        width: 560px;
+        height: 315px;
+    }
+
+    .Flex3 {
+        flex-direction: row;
+        align-items: center;
+    }
+
+
 }
