@@ -241,6 +241,28 @@ main h2 {
     display: none;
 }
 
+/* Conteúdo */
+#conteudo {
+    padding: 50px 0px;
+}
+
+#conteudo h2 {
+    margin-bottom: 25px;
+    text-align: center;
+}
+
+#todos {
+    margin-top: 50px;
+    text-align: center;
+}
+
+#todos a {
+    text-decoration: none;
+    color: #000;
+    font-weight: 700;
+    font-size: 1.25em;
+}
+
 /* Smartphone Landscape >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>*/
 @media (min-width: 576px) {
    
@@ -288,27 +310,6 @@ main h2 {
         height: 315px;
     }
 
-    /* Conteúdo */
-    #conteudo {
-        padding: 50px 0px;
-    }
-
-    #conteudo h2 {
-        margin-bottom: 25px;
-        text-align: center;
-    }
-
-    #todos {
-        margin-top: 50px;
-        text-align: center;
-    }
-
-    #todos a {
-        text-decoration: none;
-        color: #000;
-        font-weight: 700;
-        font-size: 1.25em;
-    }
 }
 
 /* Tablet Landscape >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>*/

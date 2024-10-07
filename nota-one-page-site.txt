@@ -50,3 +50,14 @@ https://www.youtube.com/watch?v=YNqrNqpq6-E
 video sobre o que é breakpoints
 https://www.youtube.com/watch?v=evWi2Z-ddGk
 https://www.youtube.com/watch?v=Gdk-f1WUy-A
+
+API do WhatsApp
+
+https://api.whatsapp.com/send?phone=5551986117079
+
+código do país: 55 (Brasil)
+código do estado: 51 (RS)
+número telefone: ____________
+
+colocado referencia de endereço no google.maps
+https://maps.app.goo.gl/ACRdSAUSjbX77tkaA
