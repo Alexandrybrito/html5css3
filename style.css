@@ -7,11 +7,16 @@
 @import url('https://fonts.googleapis.com/css2?family=Open+Sans:ital,wght@0,300..800;1,300..800&display=swap');
 
 
+
 /* CSS Reset*/
 *{
     margin: 0;
     border: 0;
     padding: 0;
+}
+
+html {
+    scroll-behavior: smooth;
 }
 
 body {
@@ -130,8 +135,8 @@ label {
 
 nav ul {
     list-style: none;
-    background-color: #343538;
-    height: 100vh;
+    background-color: rgba(52,53,56,0.95);
+    height: 75vh;
     position: fixed;
     top: 60px;
     right: -100%;
@@ -146,6 +151,7 @@ nav ul {
 nav ul li {
     padding: 20px;
     border-bottom: 1px solid #a9a9a9;
+    text-align: right;
 }
 
 nav ul li a {
@@ -422,6 +428,7 @@ footer {
 
     nav ul {
         position: static;
+        width: 100%;
         height: auto;
         background-color: transparent;
         margin-top: 50px;

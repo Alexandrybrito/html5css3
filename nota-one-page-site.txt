@@ -61,3 +61,9 @@ número telefone: ____________
 
 colocado referencia de endereço no google.maps
 https://maps.app.goo.gl/ACRdSAUSjbX77tkaA
+https://maps.app.goo.gl/mq2MPKZi42Bru2Xp6
+
+Configuração do Email
+<a href="mailto:seuemail@email.com.br?subject=HTML5CSS3">
+seuemail@email.com.br (E-mail de contato)
+HTML5CSS3 (Assunto ***Não usar espaços)
